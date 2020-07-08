@@ -83,7 +83,7 @@ body{
     width: 50px;
     padding-bottom: 20px;
 }
-.features-sec, .card-deck{
+.features-sec, .card-deck, .testi-padding{
     margin-top: 50px;
     margin-bottom: 100px;
 }
@@ -105,4 +105,23 @@ shadow{
 .card-footer{
     background-color: #fff;
     border-top: none;
+}
+.last-part{
+    background-color: #28252e;
+}
+.white-text{
+    color: #fff;
+    max-height: 600px;
+}
+footer{
+    padding-bottom: 2%;
+    padding-top: 2%;
+    text-align: center;
+}
+.row-padding{
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+ul{
+    list-style-type: none;
 }
