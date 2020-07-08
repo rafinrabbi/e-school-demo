@@ -1,0 +1,108 @@
+#logo{
+    width: 200px;
+    padding-top: 10px;
+}
+.container{
+    width: 72%;
+}
+.upper-view{
+    background-color:  #f3fef1;
+
+}
+.nav-align{
+    padding-top:1%;
+    padding-right: 5%;
+}
+.nav-logo{
+    width: 200px;
+}
+element.style{
+    height:100%;
+}
+
+.nav-container{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    background-color: #f0fff0;
+}
+#illustration{
+    width: 100%;
+}
+.red-text{
+    color: red;
+}
+#green-btn{
+    background-color: #21B573;
+    padding: 8px 25px;
+    border-radius: 20px;
+    color: white;
+    margin-top: -5px;
+    border: none;
+}
+
+.banner p {
+    color: 	#696969;
+    line-height: 35px;
+    padding-bottom: 4%;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    padding: 0px 20px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    padding: 100px 0px;
+    
+}
+.banner h1{
+    font-weight: bold;
+    font-size: 50px;
+    padding-top: 10px;
+}
+.banner h6, .font-bold{
+    font-weight: bold;
+}
+
+.green-text{
+    color: #00D000;
+}
+
+.green-bg{
+    background-color: #F8FFFB;
+}
+.feature-box{
+    border-radius: 10px;
+    padding: 40px 0px;
+    color: 	#696969;
+ }
+#icon{
+    width: 50px;
+    padding-bottom: 20px;
+}
+.features-sec, .card-deck{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+shadow{
+    box-shadow: 10px 10px  50px #E8E8E8;
+ 
+ }
+.features-sec img {
+    width: 50px;
+    padding-bottom: 20px;
+}
+.img-padding{
+    padding: 4%;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+}
